@@ -1,0 +1,11 @@
+   .venv/
+
+   __pycache__/
+   *.pyc
+
+   .vscode/
+
+   measurements.txt
+   parts.csv
+   parts.json
+   readings.csv

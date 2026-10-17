@@ -5,7 +5,7 @@
 
    .vscode/
 
-   measurements.txt
+   measurement.txt
    parts.csv
    parts.json
    readings.csv
